@@ -1,0 +1,26 @@
+{
+  "name": "furtive-flag-object",
+  "version": "0.0.1",
+  "description": "A CSS module for an extensible flag object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furtivecss/flag-object.git"
+  },
+  "keywords": [
+    "flag",
+    "flag-object",
+    "css",
+    "furtive",
+    "rework"
+  ],
+  "author": "John Otander <johnotander@gmail.com> (http://johnotander.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furtivecss/flag-object/issues"
+  },
+  "homepage": "https://github.com/furtivecss/flag-object"
+}
