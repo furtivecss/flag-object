@@ -1,0 +1,19 @@
+.flag {
+  display: table;
+  width: 100%;
+}
+
+.flag-image,
+.flag-body {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.flag-image img {
+  display: block;
+  max-width: none;
+}
+
+.flag-body {
+  width: 100%;
+}
